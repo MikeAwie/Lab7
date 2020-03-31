@@ -4,3 +4,4 @@ Added support for drawing multiple types of shapes (added circle). Created event
 Added a file chooser for both load and save.
 
 # Lab7
+Compulsory
